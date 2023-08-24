@@ -7,7 +7,7 @@ VALIDATION = 0.2
 FEATURES = 18  # Number of features
 
 EPOCHS = 50  # Epochs for training neural network
-BATCH_SIZE = 2  # Number of items in a batch in data loader
+BATCH_SIZE = 16  # Number of items in a batch in data loader
 HIDDEN_LAYER_SIZE = 20  # Number of nodes in hidden layers
 LEARNING_RATE = 1e-3
 
