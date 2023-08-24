@@ -1,4 +1,4 @@
-FILE = '/Users/ben/Downloads/CVD_Cleaned.csv'  # File location (CVD)
+FILE = 'CVD_Cleaned.csv'  # File location (CVD)
 
 SAMPLE = 10000
 TRAIN = 0.6
